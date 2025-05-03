@@ -9,5 +9,7 @@ ARTICLE_OUTLINE.md
 
 # Ignore contents of data/, but not the directory itself
 data/*
-# Re-include the default memory file
-!data/memory.json
+# Re-include the default knowledge file
+!data/data-engineering-knowledge.json
+
+# Data files
