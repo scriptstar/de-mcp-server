@@ -9,7 +9,10 @@ ARTICLE_OUTLINE.md
 
 # Ignore contents of data/, but not the directory itself
 data/*
-# Re-include the default knowledge file
-!data/data-engineering-knowledge.json
+# Keep the example file and .gitkeep
+!data/data-engineering-knowledge.json.example
+!data/.gitkeep
+# Ignore the user-specific knowledge file
+data/data-engineering-knowledge.json
 
 # Data files

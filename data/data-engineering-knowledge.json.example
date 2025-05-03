@@ -1,0 +1,14 @@
+{
+  "ETL": true,
+  "ELT": true,
+  "Data Warehousing": true,
+  "Data Lakes": true,
+  "Batch Processing": true,
+  "Stream Processing": true,
+  "Data Mesh": true,
+  "Feature Stores": true,
+  "dbt": true,
+  "Modern Data Stack": true,
+  "DataOps": true,
+  "Data Contracts": true
+}
